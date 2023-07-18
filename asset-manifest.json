@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Damodar_Resturant2004/static/css/main.17655c3c.css",
+    "main.js": "/Damodar_Resturant2004/static/js/main.e9435236.js",
+    "index.html": "/Damodar_Resturant2004/index.html",
+    "main.17655c3c.css.map": "/Damodar_Resturant2004/static/css/main.17655c3c.css.map",
+    "main.e9435236.js.map": "/Damodar_Resturant2004/static/js/main.e9435236.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17655c3c.css",
+    "static/js/main.e9435236.js"
+  ]
+}
